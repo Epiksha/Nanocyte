@@ -1,0 +1,21 @@
+{
+    "name": "nanocyte",
+    "displayName": "Nanocyte",
+    "description": "A VSCode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nanocyte",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nanocyte-color-theme.json"
+            }
+        ]
+    }
+}
